@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/AppIcon.png</file>
+        <file>icons/CLRALL.svg</file>
+        <file>icons/Color.svg</file>
+        <file>icons/Eraser.svg</file>
+        <file>icons/EraserIdle.svg</file>
+        <file>icons/Minimize.svg</file>
+        <file>icons/Pen.svg</file>
+        <file>icons/PenCursor.svg</file>
+        <file>icons/PenIdle.svg</file>
+        <file>icons/Save.svg</file>
+        <file>icons/Size.svg</file>
+        <file>icons/Trace.svg</file>
+        <file>icons/TraceIdle.svg</file>
+        <file>icons/TrayIcon.svg</file>
+    </qresource>
+</RCC>

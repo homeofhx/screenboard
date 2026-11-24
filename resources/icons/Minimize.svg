@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="linearGradient1" x1="52.09719" y1="204.698938" x2="203.69668" y2="53.099449" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#bba900" stop-opacity="1"/>
+        <stop offset="0.499759" stop-color="#ccb200" stop-opacity="1"/>
+        <stop offset="1" stop-color="#a58d00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2" x1="34.582711" y1="75.351005" x2="219.729767" y2="182.846558" gradientUnits="userSpaceOnUse">
+        <stop offset="0.208391" stop-color="#c37a00" stop-opacity="1"/>
+        <stop offset="0.593974" stop-color="#9f6300" stop-opacity="1"/>
+        <stop offset="1" stop-color="#9e6300" stop-opacity="1"/>
+    </linearGradient>
+    <path id="Rounded-Rectangle" fill="url(#linearGradient1)" fill-rule="evenodd" stroke="url(#linearGradient2)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M 20 170 C 20 194.291901 20 206.437866 25.100159 215.544846 C 28.704666 221.981155 34.018841 227.295334 40.455151 230.899841 C 49.562141 236 61.708096 236 86 236 L 169 236 C 193.291901 236 205.437866 236 214.544846 230.899841 C 220.981155 227.295334 226.295334 221.981155 229.899841 215.544846 C 235 206.437866 235 194.291901 235 170 L 235 87 C 235 62.708099 235 50.562134 229.899841 41.455154 C 226.295334 35.018845 220.981155 29.704666 214.544846 26.100159 C 205.437851 21 193.291901 21 169 21 L 86 21 C 61.708096 21 49.562141 21 40.455151 26.100159 C 34.018841 29.704666 28.704666 35.018845 25.100161 41.455154 C 20 50.562149 20 62.708099 20 87 Z"/>
+    <g id="Group">
+        <path id="Rectangle" fill="#ffffff" fill-rule="evenodd" stroke="none" d="M 153.024567 177.366577 C 153.024567 183.052307 153.024567 185.895172 154.218307 188.026733 C 155.061966 189.533218 156.305801 190.777039 157.812271 191.620712 C 159.943848 192.814453 162.786713 192.814453 168.472427 192.814453 L 176.196365 192.814453 C 181.882095 192.814453 184.72496 192.814453 186.856522 191.620712 C 188.362991 190.777039 189.606827 189.533218 190.450485 188.026733 C 191.644226 185.895172 191.644226 183.052307 191.644226 177.366577 L 191.644226 169.642654 C 191.644226 163.956924 191.644226 161.114059 190.450485 158.982483 C 189.606827 157.476013 188.362991 156.232193 186.856522 155.388519 C 184.724945 154.194794 181.88208 154.194794 176.196365 154.194794 L 168.472427 154.194794 C 162.786713 154.194794 159.943848 154.194794 157.812271 155.388519 C 156.305801 156.232193 155.061966 157.476013 154.218307 158.982498 C 153.024567 161.114075 153.024567 163.95694 153.024567 169.642654 Z"/>
+        <path id="Line" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="10.851665" stroke-linecap="round" stroke-linejoin="round" d="M 63.886971 63.887177 L 138.476547 138.476776"/>
+        <path id="Line-copy" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="10.851665" stroke-linecap="round" stroke-linejoin="round" d="M 90.999123 139.032928 L 138.230499 139.032928"/>
+        <path id="Line-copy-2" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="10.851665" stroke-linecap="round" stroke-linejoin="round" d="M 139.033005 138.980927 L 139.033005 91.749557"/>
+    </g>
+</svg>

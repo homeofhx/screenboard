@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="linearGradient1" x1="52.09719" y1="204.698938" x2="203.69668" y2="53.099449" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#195800" stop-opacity="1"/>
+        <stop offset="0.499759" stop-color="#247d00" stop-opacity="1"/>
+        <stop offset="1" stop-color="#195800" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2" x1="34.582711" y1="75.351005" x2="219.729767" y2="182.846558" gradientUnits="userSpaceOnUse">
+        <stop offset="0.208391" stop-color="#c37a00" stop-opacity="1"/>
+        <stop offset="0.593974" stop-color="#9f6300" stop-opacity="1"/>
+        <stop offset="1" stop-color="#9e6300" stop-opacity="1"/>
+    </linearGradient>
+    <path id="Rounded-Rectangle" fill="url(#linearGradient1)" fill-rule="evenodd" stroke="url(#linearGradient2)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M 20 170 C 20 194.291901 20 206.437866 25.100159 215.544846 C 28.704666 221.981155 34.018841 227.295334 40.455151 230.899841 C 49.562141 236 61.708096 236 86 236 L 169 236 C 193.291901 236 205.437866 236 214.544846 230.899841 C 220.981155 227.295334 226.295334 221.981155 229.899841 215.544846 C 235 206.437866 235 194.291901 235 170 L 235 87 C 235 62.708099 235 50.562134 229.899841 41.455154 C 226.295334 35.018845 220.981155 29.704666 214.544846 26.100159 C 205.437851 21 193.291901 21 169 21 L 86 21 C 61.708096 21 49.562141 21 40.455151 26.100159 C 34.018841 29.704666 28.704666 35.018845 25.100161 41.455154 C 20 50.562149 20 62.708099 20 87 Z"/>
+    <g id="Group">
+        <path id="path1" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="4.449945" stroke-opacity="0.79613" d="M 158.775604 188.97287 C 160.890076 191.992645 165.052185 192.726532 168.07196 190.612061 C 171.091721 188.497604 171.825623 184.33548 169.711151 181.31572 L 156.098434 161.874756 C 153.983978 158.85498 149.821854 158.121094 146.802094 160.23555 C 143.782318 162.350006 143.048431 166.512131 145.162888 169.531891 Z"/>
+        <path id="Line" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" stroke-opacity="0.496675" stroke-linecap="square" stroke-dasharray="16 4 4 4" stroke-dashoffset="0" d="M 142.973511 154.767776 L 113.195702 112.240662"/>
+        <path id="Oval" fill="#f0f0f0" fill-rule="evenodd" stroke="none" d="M 118 98.5 C 118 92.148727 112.851273 87 106.5 87 C 100.148727 87 95 92.148727 95 98.5 C 95 104.851273 100.148727 110 106.5 110 C 112.851273 110 118 104.851273 118 98.5 Z"/>
+        <path id="path2" fill="#f0f0f0" fill-rule="evenodd" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 107 116 L 107 136"/>
+        <path id="Line-copy" fill="#f0f0f0" fill-rule="evenodd" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 107 61 L 107 81"/>
+        <path id="Line-copy-2" fill="#f0f0f0" fill-rule="evenodd" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 124 98 L 144 98"/>
+        <path id="Line-copy-3" fill="#f0f0f0" fill-rule="evenodd" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 69 98 L 89 98"/>
+        <path id="Line-copy-4" fill="#f0f0f0" fill-rule="evenodd" stroke="#d5d5d5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M 79.928932 71.928925 L 94.071068 86.071075"/>
+        <path id="Line-copy-5" fill="#f0f0f0" fill-rule="evenodd" stroke="#d5d5d5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M 133.071075 71.928925 L 118.928932 86.071075"/>
+        <path id="Line-copy-6" fill="#f0f0f0" fill-rule="evenodd" stroke="#d5d5d5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M 79.928932 126.071075 L 94.071068 111.928925"/>
+        <path id="Line-copy-7" fill="#f0f0f0" fill-rule="evenodd" stroke="#d5d5d5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M 118.928932 111.928925 L 133.071075 126.071075"/>
+    </g>
+</svg>
